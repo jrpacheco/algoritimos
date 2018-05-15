@@ -1,0 +1,6 @@
+c:\users\antonio.junior.pq3s\documents\visual studio 2010\Projects\Algoritimos_Estruturas_Dados\BubbleSort\bin\Debug\BubbleSort.exe
+c:\users\antonio.junior.pq3s\documents\visual studio 2010\Projects\Algoritimos_Estruturas_Dados\BubbleSort\bin\Debug\BubbleSort.pdb
+c:\users\antonio.junior.pq3s\documents\visual studio 2010\Projects\Algoritimos_Estruturas_Dados\BubbleSort\obj\x86\Debug\BubbleSort.exe
+c:\users\antonio.junior.pq3s\documents\visual studio 2010\Projects\Algoritimos_Estruturas_Dados\BubbleSort\obj\x86\Debug\BubbleSort.pdb
+C:\git\Algoritimos_Estruturas_Dados\BubbleSort\obj\x86\Debug\BubbleSort.exe
+C:\git\Algoritimos_Estruturas_Dados\BubbleSort\obj\x86\Debug\BubbleSort.pdb
